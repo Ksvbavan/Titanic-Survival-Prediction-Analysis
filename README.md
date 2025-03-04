@@ -1,9 +1,9 @@
 # Titanic-Survival-Prediction-Analysis
-##About
+## About
 
 This analysis explores the famous Titanic dataset using Python, applying data cleaning, visualization, and predictive modeling techniques. The dataset includes details on passengers such as class, age, gender, fare, and survival status. Using libraries like pandas, seaborn, and scikit-learn, the analysis uncovers patterns and trends related to survival rates.
 
-##Overview
+## Overview
 
 The Titanic Python Analysis provides insights into passenger demographics, survival rates, and key influencing factors. It involves:
 
